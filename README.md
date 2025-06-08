@@ -29,4 +29,4 @@ Features:-
 * Interactive Streamlit web app for predictions
 
 Author- Hamida C 
-LinkedIn: https://www.linkedin.com/in/hamida-c
+
