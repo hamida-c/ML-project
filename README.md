@@ -1,5 +1,8 @@
 # Employee Attrition Prediction
 
+![image](https://github.com/user-attachments/assets/f9144425-6a42-4498-b4dc-4c5324a6c39c)
+
+
 
 Project Overview:-
 
