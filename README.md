@@ -4,7 +4,7 @@
 
 
 
-Project Overview:-
+# Project Overview:-
 
 This Machine Learning project predicts whether an employee is likely to leave the company based on various factors like age, job satisfaction, salary, years at company, etc. The goal is to help HR teams proactively manage attrition using data-driven insights.
 
@@ -31,5 +31,4 @@ Features:-
 * Feature importance analysis
 * Interactive Streamlit web app for predictions
 
-Author- Hamida C 
-
+# Author- Hamida C 
